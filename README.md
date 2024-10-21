@@ -1,5 +1,6 @@
 # Insecure Phoenix
 
+![alt text](insecure_phoenix.webp)
 **Insecure Phoenix** is a deliberately vulnerable Phoenix application designed to demonstrate various web security vulnerabilities, including but not limited to HTTP header injection and session misconfigurations. The goal of this project is to provide a hands-on educational environment for learning about security flaws and how to mitigate them in Phoenix and Elixir-based applications.
 
 ## Purpose
